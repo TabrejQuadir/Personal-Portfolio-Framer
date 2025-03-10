@@ -6,32 +6,41 @@ import { AiFillEye, AiFillGithub } from "react-icons/ai";
 // Define your static project data.
 const staticProjectData = [
   {
-    _id: "1",
-    title: "Trading Website",
-    description: "This is the description for project one.",
-    imgurl: "/Trading.JPG", // Replace with your image URL or local asset path.
-    github_link: "https://github.com/username/project-one",
-    web_app_link: "https://prepaidtaskskill.in",
-    category: "full_stack",
+    "_id": "1",
+    "title": "Real-Time Crypto Trading (MERN)",
+    "description": "Built a MERN stack cryptocurrency trading platform with live charts, 'up/down' trades, order history, and secure financial transactions.",
+    "imgurl": "/Trading.JPG",
+    "github_link": "https://github.com/username/project-one",
+    "web_app_link": "https://prepaidtaskskill.in",
+    "category": "full_stack"
   },
   {
     _id: "2",
-    title: "Project Two",
-    description: "This is the description for project two.",
-    imgurl: "https://via.placeholder.com/300", // Replace with your image URL or local asset path.
-    github_link: "https://github.com/username/project-two",
-    web_app_link: "https://project-two-demo.com",
-    category: "frontend",
+    title: "PizzaHub",
+    description: "During my Oasis Infobyte internship, I built a MERN Pizza App with a custom pizza builder, an admin panel for inventory and order management, and live APIs. Integrated Razorpay test mode for payments.",
+    imgurl: "/PizzaHub.JPG",
+    github_link: "https://github.com/TabrejQuadir/PizzaHub-Mern-Stack-Website",
+    web_app_link: "https://oasis-infobyte-frontend.onrender.com",
+    category: "full_stack",
   },
   {
-    _id: "3",
-    title: "Project Three",
-    description: "This is the description for project three.",
-    imgurl: "https://via.placeholder.com/300", // Replace with your image URL or local asset path.
-    github_link: "https://github.com/username/project-three",
-    web_app_link: "https://project-three-demo.com",
-    category: "backend",
+    "_id": "3",
+    "title": "SureWin11: MERN Fantasy Cricket Investment",
+    "description": "Built SureWin11, a MERN stack application for fantasy cricket investment. Features include expert team investment, secure JWT authentication, RESTful APIs, and efficient data management.",
+    "imgurl": "/SureWin11.png",
+    "github_link": "https://github.com/TabrejQuadir/Cricket-Fantasy",
+    "web_app_link": "https://surewin11.cricket.site",
+    "category": "full_stack"
   },
+  {
+    "_id": "4",
+    "title": "LiveNews",
+    "description": "Developed LiveNews, a dynamic news application providing real-time updates across Technology, Business, Health, Sports, and Entertainment. Features include category-based news filtering, responsive design, and integration with a news API for live content delivery.",
+    "imgurl": "/Livenews.jpg",
+    "github_link": "https://github.com/TabrejQuadir/News-App",
+    "web_app_link": "https://news.adminskill.tech",
+    "category": "frontend"
+  }
 ];
 
 const Work = () => {

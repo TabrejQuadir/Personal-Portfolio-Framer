@@ -132,6 +132,24 @@ const staticExp = [
       },
     ],
   },
+  {
+    year: "Dec 2024 - Jan 2025",
+    roles: [
+      {
+        role_name: "Freelance Full-Stack Developer",
+        company_name: "Cryptocurrency Trading Website", 
+      },
+    ],
+  },
+  {
+    year: "Feb 2025 - Mar 2025",
+    roles: [
+      {
+        role_name: "Freelance Full-Stack Developer",
+        company_name: "SureWin11: Cricket Investment Platform", 
+      },
+    ],
+  },
 ];
 
 const Skill = () => {
