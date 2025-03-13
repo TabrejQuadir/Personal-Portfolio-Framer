@@ -29,7 +29,7 @@ const staticProjectData = [
     "description": "Built SureWin11, a MERN stack application for fantasy cricket investment. Features include expert team investment, secure JWT authentication, RESTful APIs, and efficient data management.",
     "imgurl": "/SureWin11.png",
     "github_link": "https://github.com/TabrejQuadir/Cricket-Fantasy",
-    "web_app_link": "https://surewin11.cricket.site",
+    "web_app_link": "https://surewin11cricket.site",
     "category": "full_stack"
   },
   {
