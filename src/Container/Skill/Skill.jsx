@@ -44,7 +44,7 @@ const staticSkills = [
     title: "Javascript",
     imgurl:
       "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
-    background_color: "#F7DF1E",
+    background_color: "#eae01e",
   },
   {
     _id: "7",
@@ -109,6 +109,20 @@ const staticSkills = [
       "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
     background_color: "#000000",
   },
+  {
+    _id: "16",
+    title: "Gsap",
+    imgurl:
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vteG2DudlxILcIB8idhgX49HFuCk4_nEtQ&s",
+    background_color: "white",
+  },
+  {
+    _id: "17",
+    title: "Framer Motion",
+    imgurl:
+    "https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png",
+    background_color: "yellow",
+  },
 ];
 
 
@@ -118,7 +132,7 @@ const staticExp = [
     year: "June 2024 - July 2024",
     roles: [
       {
-        role_name: "Intern",
+        role_name: "Web Developer Intern",
         company_name: "Oasis InfoByte",
       },
     ],
@@ -136,8 +150,8 @@ const staticExp = [
     year: "Dec 2024 - Jan 2025",
     roles: [
       {
-        role_name: "Freelance Full-Stack Developer",
-        company_name: "Cryptocurrency Trading Website", 
+        role_name: "Freelance Developer",
+        company_name: "Cryptocurrency Trading", 
       },
     ],
   },
@@ -145,8 +159,8 @@ const staticExp = [
     year: "Feb 2025 - Mar 2025",
     roles: [
       {
-        role_name: "Freelance Full-Stack Developer",
-        company_name: "SureWin11: Cricket Investment Platform", 
+        role_name: "Freelance Developer",
+        company_name: "SureWin11", 
       },
     ],
   },

@@ -26,6 +26,9 @@
     .img-container {
       display: flex;
       flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
    width: 50%;
       .img-box {
         display: flex;
